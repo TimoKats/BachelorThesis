@@ -26,6 +26,7 @@ if __name__ == '__main__':
     operator = ""
 
     print('Welcome to "Differentiating Advertorials and Articles" the video game.')
+    
     while True:
         operator = input('\npress 1 for a question, press 2 to quit\n>>> ')
         if operator is '2':
