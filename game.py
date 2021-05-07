@@ -11,12 +11,12 @@ def get_data():
     return pd.concat(frames, ignore_index=True)
 
 def question(data):
-    correct_answer = random.randint(0,2000)
+    correct_answer = random.randint(0,1999)
     question = data.iloc[correct_answer]['title']
     user_answer = ""
     print('is -', question, '- and article or an advertorial?')
     user_answer = input('type 1 for article or 2 for advertorial!\n>>> ')
-    if (user_answer is '1' and correct_answer > 1000) or (user_answer is '0' and correct_answer <= 1000):
+    if (user_answer is '1' and correct_answer >= 1000) or (user_answer is '2' and correct_answer < 1000):
         print('correct!')
     else:
         print('false!')
