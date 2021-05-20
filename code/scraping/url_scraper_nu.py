@@ -2,7 +2,7 @@
 # name:         url_scraper_nu.py
 # author:       Timo Kats
 # last update:  20/05/2021
-# description:  Brute force scraping algorithm for nu.nl
+# description:  Brute force scraping algorithm for nu.nl. See algorithm 1 in thesis.
 
 import requests
 
