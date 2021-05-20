@@ -2,7 +2,7 @@
 # name:         page_scraper_telegraaf.py
 # author:       Timo Kats
 # last update:  20/05/2021
-# description:  Scrapes the content of a page. Uses the urls from the url scraper as input.
+# description:  Scrapes the content of a page. Uses the urls from the url scraper as input. See algorithm 3 in thesis.
 
 from bs4 import BeautifulSoup
 import requests
