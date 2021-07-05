@@ -1,4 +1,4 @@
-# Timo's bachelor project
+# Timo's bachelor project [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Hello! Welcome to the secret code stash my bachelor project (and future...) rely on. In this repository you can find the following:
 
 - An anonymized version of the data used for my thesis. Due to the legislation around intellectual property it's not allowed to publish full articles. Therefore the data set only shows the title, the news source and the sponsor (if any).
