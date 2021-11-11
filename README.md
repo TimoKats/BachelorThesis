@@ -12,6 +12,5 @@
 
 ### The paper related to this research
 Timo Kats, Peter van der Putten and Jasper Schelling
-Distinguishing Commercial from Editorial Content in News. Preproceedings 33rd Benelux Conference on Artificial Intelligence and the 30th Belgian Dutch Conference on Machine Learning (BNAIC/BENELEARN 2021), Luxembourg, November 10-12, 2021  
-pdf availible at [arXiv](https://arxiv.org/abs/2111.03916)
+Distinguishing Commercial from Editorial Content in News. Preproceedings 33rd Benelux Conference on Artificial Intelligence and the 30th Belgian Dutch Conference on Machine Learning (BNAIC/BENELEARN 2021), Luxembourg, November 10-12, 2021 [PDF](https://arxiv.org/abs/2111.03916)
 
